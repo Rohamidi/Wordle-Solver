@@ -386,7 +386,7 @@ function App() {
 
             <div className="dedication-copy">
               <small>A heartfelt shout-out</small>
-              <strong>For Yasna, the inspiration behind it all</strong>
+              <strong>To Yasna, the inspiration behind it all</strong>
               <span>
                 You introduced me to Wordle and inspired this entire project.
                 Without you, I wouldn’t even have discovered the game—let alone
